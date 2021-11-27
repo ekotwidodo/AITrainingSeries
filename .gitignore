@@ -1,4 +1,5 @@
 venv
+.DS_Store
 
 day-01/*.zip
 day-01/*.json
